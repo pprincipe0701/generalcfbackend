@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sap.cloud.security.xsuaa:token-client:2.7.6">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sap/cloud/security/xsuaa/token-client/2.7.6/token-client-2.7.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sap/cloud/security/xsuaa/token-client/2.7.6/token-client-2.7.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sap/cloud/security/xsuaa/token-client/2.7.6/token-client-2.7.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sap.db:ngdbc:2.4.63">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sap/db/ngdbc/2.4.63/ngdbc-2.4.63.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sap/db/ngdbc/2.4.63/ngdbc-2.4.63-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sap/db/ngdbc/2.4.63/ngdbc-2.4.63-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

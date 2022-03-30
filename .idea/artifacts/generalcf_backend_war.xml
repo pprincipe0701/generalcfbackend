@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="generalcf_backend:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>generalcf_backend</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="generalcfbackend-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="generalcf_backend:war exploded" />
+    </root>
+  </artifact>
+</component>

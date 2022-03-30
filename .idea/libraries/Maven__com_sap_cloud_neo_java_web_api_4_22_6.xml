@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sap.cloud:neo-java-web-api:4.22.6">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sap/cloud/neo-java-web-api/4.22.6/neo-java-web-api-4.22.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sap/cloud/neo-java-web-api/4.22.6/neo-java-web-api-4.22.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sap/cloud/neo-java-web-api/4.22.6/neo-java-web-api-4.22.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
