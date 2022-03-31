@@ -38,7 +38,7 @@ public class _JcoRest {
 
 
 
-    //@ApiOperation(value = "Lista Proveedores RFC", produces = "application/json")
+    //@ApiOperation(value = "Lista Proveedores RFC", produces = "application/json")gg
     @PostMapping(value = "/listaProveedoresByRFC", produces = APPLICATION_JSON_VALUE)
     public ResponseEntity<List<ProveedorDto>> listarProveedoresRFC(@RequestBody FiltroProveedorDto dto
                                                            ) {
