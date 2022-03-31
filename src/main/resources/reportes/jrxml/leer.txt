@@ -1,0 +1,1 @@
+En esta carpeta deben ir los archivos codigos fuentes jrxml para los Reportes PDF

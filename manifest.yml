@@ -1,0 +1,26 @@
+---
+applications:
+ 
+- name: generalcfbackend
+  path: target/generalcfbackend-0.0.1-SNAPSHOT.war
+  buildpacks:
+    - sap_java_buildpack
+  memory: 1024M
+  disk-quota: 1G
+  routes:
+  - route: generalcfbackend.cfapps.br10.hana.ondemand.com
+   
+  env:
+    USE_JCO: true
+    # # Accept any OAuth client of any identity zone
+    JAVA_OPTS: '-Djava.security.egd=file:///dev/./urandom -Xss349k -agentlib:jdwp=transport=dt_socket,address=8686,server=y,suspend=n'
+    # Accept any OAuth client of any identity zone
+    SAP_JWT_TRUST_ACL: '[{"clientid":"*","identityzone":"*"}]'
+    xsuaa_connectivity_instance_name: "zjco-xsuaa"
+
+  services:
+    - zconnectivity-service
+    - zdestination-service
+    - zjco-xsuaa
+
+ 

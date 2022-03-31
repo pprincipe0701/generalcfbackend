@@ -1,0 +1,36 @@
+Estimado ${user.firstName} ${user.lastName},
+
+Usted ha sido invitado a ser parte de nuestro nuevo IProvider, por tal motivo tiene una cuenta pre-registrada en el
+sistema.Para activar su cuenta, haga clic en el siguiente enlace.
+
+<a href="${user.activate_account_link}">${user.activate_account_link}</a>
+
+Si el enlace de arriba no se muestra o no funciona, copie y pegue el siguiente enlace en la barra de direcciones de su
+navegador.
+
+Atentamente,
+Equipo IProvider - Copeinca
+
+Este correo electrónico puede contener secretos comerciales o información privilegiada, no divulgada o confidencial.
+Si recibió este correo electrónico por error, se le notifica que cualquier revisión, copia o distribución está estrictamente
+prohibida. Por favor, infórmenos de inmediato y destruya la transmisión original. Gracias por su cooperación.
+
+******************************************************************************************************
+******************************************************************************************************
+******************************************************************************************************
+
+Dear ${user.firstName} ${user.lastName},
+
+You have been invited to be part of our new IProvider, for this reason you have a pre-registered account in our system.
+To activate your account, click on the following link.
+
+<a href="${user.activate_account_link}">${user.activate_account_link}</a>
+
+If the link above is not displayed or does not work, copy and paste the link below to the address bar of your browser.
+
+Best Regards,
+Team IProvider - Copeinca
+
+This e-mail may contain trade secrets or privileged, undisclosed, or otherwise confidential information. If you have
+received this e-mail in error, you are hereby notified that any review, copying, or distribution of it is strictly
+prohibited. Please inform us immediately and destroy the original transmittal. Thank you for your cooperation.
